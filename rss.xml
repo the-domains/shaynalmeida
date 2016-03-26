@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[ShaynAlmeida]]></title>
         <description><![CDATA[ShaynAlmeida]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/shaynalmeida/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 19:24:21 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 26 Mar 2016 06:13:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/shaynalmeida/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Divine Alkhemy]]></title>
+            <description><![CDATA[<article><h1>Divine Alkhemy</h1><p></p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0e609f79-6bb6-47c0-8cd7-2f463a41722c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/shaynalmeida/70f5bf4b-b4a5-47df-9692-78c41478d661/index.html</link>
+            <guid isPermaLink="false">70f5bf4b-b4a5-47df-9692-78c41478d661</guid>
+            <pubDate>Sat, 26 Mar 2016 06:13:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7df09ff332e1223e35eeabe42be0ccd6ea3de3e9.jpg" alt="" title="">]]></description>
-            <link>undefinedb7886cdd-d8dd-4849-ae4a-240f4b647957/index.html</link>
+            <link>https://thegrid.ai/shaynalmeida/b7886cdd-d8dd-4849-ae4a-240f4b647957/index.html</link>
             <guid isPermaLink="false">b7886cdd-d8dd-4849-ae4a-240f4b647957</guid>
             <pubDate>Fri, 25 Mar 2016 19:24:21 GMT</pubDate>
         </item>
