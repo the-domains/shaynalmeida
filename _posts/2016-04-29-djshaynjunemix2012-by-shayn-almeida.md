@@ -1,16 +1,18 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://soundcloud.com/shaynalmeida/djshaynjunemix2012'
+inLanguage: null
+keywords: []
+description: 'Some of my House and TechHouse favorites for the Month of June 2012... For track Listing or DJ Bookings, email ( Shayn @ mac . com :)'
+datePublished: '2016-04-29T00:42:54.732Z'
+dateModified: '2016-04-29T00:42:25.432Z'
 author:
   - name: Shayn Almeida
     url: 'http://soundcloud.com/shaynalmeida'
     avatar: {}
 related: []
-publisher:
-  name: SoundCloud
-  domain: soundcloud.com
-  url: 'http://soundcloud.com'
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-keywords: []
-description: 'Some of my House and TechHouse favorites for the Month of June 2012... For track Listing or DJ Bookings, email ( Shayn @ mac . com :)'
 app_links:
   - type: ios
     namespace: ai
@@ -48,17 +50,15 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://soundcloud.com/shaynalmeida/djshaynjunemix2012'
 title: DjShaynJuneMix2012 by Shayn Almeida
-datePublished: '2016-04-29T00:41:51.600Z'
-dateModified: '2016-04-29T00:41:30.018Z'
-inFeed: true
-hasPage: false
-inNav: false
-inLanguage: null
-authors: []
 sourcePath: _posts/2016-04-29-djshaynjunemix2012-by-shayn-almeida.md
 published: true
+authors: []
+publisher:
+  name: SoundCloud
+  domain: soundcloud.com
+  url: 'http://soundcloud.com'
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
 starred: true
 _type: AudioObject
 _context: 'http://schema.org'
