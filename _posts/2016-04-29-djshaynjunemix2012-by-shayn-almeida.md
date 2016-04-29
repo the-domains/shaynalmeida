@@ -50,16 +50,16 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://soundcloud.com/shaynalmeida/djshaynjunemix2012'
 title: DjShaynJuneMix2012 by Shayn Almeida
-datePublished: '2016-04-29T00:35:27.959Z'
-dateModified: '2016-04-29T00:35:03.395Z'
+datePublished: '2016-04-29T00:41:51.600Z'
+dateModified: '2016-04-29T00:41:30.018Z'
 inFeed: true
 hasPage: false
 inNav: false
 inLanguage: null
 authors: []
-starred: true
 sourcePath: _posts/2016-04-29-djshaynjunemix2012-by-shayn-almeida.md
 published: true
+starred: true
 _type: AudioObject
 _context: 'http://schema.org'
 
