@@ -1,16 +1,18 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://soundcloud.com/shaynalmeida/tech-house-for-heads'
+inLanguage: null
+keywords: []
+description: 'A compilation of some of my favorite TechHouse tracks that i liked enough to buy in 2015. *Support your favorite DJ/Producers & buy their Music :) Bookings: ShaynAlmeida @ gmail .com'
+datePublished: '2016-04-29T00:54:26.244Z'
+dateModified: '2016-04-29T00:51:59.905Z'
 author:
   - name: Shayn Almeida
     url: 'http://soundcloud.com/shaynalmeida'
     avatar: {}
 related: []
-publisher:
-  url: 'http://soundcloud.com'
-  name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-  domain: soundcloud.com
-keywords: []
-description: 'A compilation of some of my favorite TechHouse tracks that i liked enough to buy in 2015. *Support your favorite DJ/Producers & buy their Music :) Bookings: ShaynAlmeida @ gmail .com'
 app_links:
   - type: ios
     namespace: ai
@@ -48,16 +50,16 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://soundcloud.com/shaynalmeida/tech-house-for-heads'
 title: Tech House for Heads by Shayn Almeida
-datePublished: '2016-04-29T00:34:09.090Z'
-dateModified: '2016-04-13T21:52:50.241Z'
-starred: false
 sourcePath: _posts/2016-04-29-tech-house-for-heads-by-shayn-almeida.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: SoundCloud
+  domain: soundcloud.com
+  url: 'http://soundcloud.com'
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
+starred: true
 _type: AudioObject
 _context: 'http://schema.org'
 
