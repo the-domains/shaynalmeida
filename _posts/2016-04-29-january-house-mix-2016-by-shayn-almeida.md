@@ -1,16 +1,18 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://soundcloud.com/shaynalmeida/january-house-mix-2016'
+inLanguage: null
+keywords: []
+description: "Former Product Specialist @ Native Instruments, Stanton Magnetics, & IK Multimedia, and as resident DJ at Spundae LA, Shayn was pioneering digital DJ'ing before it was even a thing. Being one of the f"
+datePublished: '2016-04-29T00:44:54.456Z'
+dateModified: '2016-04-29T00:44:34.950Z'
 author:
   - name: Shayn Almeida
     url: 'http://soundcloud.com/shaynalmeida'
     avatar: {}
 related: []
-publisher:
-  url: 'http://soundcloud.com'
-  name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-  domain: soundcloud.com
-keywords: []
-description: "Former Product Specialist @ Native Instruments, Stanton Magnetics, & IK Multimedia, and as resident DJ at Spundae LA, Shayn was pioneering digital DJ'ing before it was even a thing. Being one of the f"
 app_links:
   - type: ios
     namespace: ai
@@ -48,16 +50,16 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://soundcloud.com/shaynalmeida/january-house-mix-2016'
 title: January House Mix 2016 by Shayn Almeida
-datePublished: '2016-04-29T00:15:14.881Z'
-dateModified: '2016-04-13T21:41:46.916Z'
-starred: false
 sourcePath: _posts/2016-04-29-january-house-mix-2016-by-shayn-almeida.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: SoundCloud
+  domain: soundcloud.com
+  url: 'http://soundcloud.com'
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
+starred: false
 _type: AudioObject
 _context: 'http://schema.org'
 
