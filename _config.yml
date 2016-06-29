@@ -1,20 +1,4 @@
-name: Shayn Almeida
-favicon: null
-layout_spectrum: 0.89429
 typography_spectrum: 0.5608748204540461
-title: Shayn Almeida
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#110f10'
@@ -26,4 +10,24 @@ color:
   lightness: 0.625
   saturation: 0.375
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.89429
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Shayn Almeida
+  email: Shayn@mac.com
+  url: www.ShaynAlmeida.com
+name: Shayn Almeida
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: DJ. Yogi. Holistic Alchemist. Sonic Shaman.
 purpose: []
