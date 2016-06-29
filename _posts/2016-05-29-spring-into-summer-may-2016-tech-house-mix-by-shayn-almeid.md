@@ -2,21 +2,23 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: 'https://m.soundcloud.com/shayn-almeida/spring-into-summer-may-2016-tech-house-mix'
+isBasedOnUrl: >-
+  https://m.soundcloud.com/shayn-almeida/spring-into-summer-may-2016-tech-house-mix
 inLanguage: null
 keywords: []
 description: "Some of my favorite tracks that have been taking me from Spring into Summer: Deep, Funky, Soulful House & Tech-House. If you enjoy this mix, pass it on to your friends :) \uD83D\uDE4F\uD83C\uDFFC\uD83D\uDC9A\uD83D\uDE4C\uD83C\uDFFC"
-datePublished: '2016-05-29T16:07:47.994Z'
-dateModified: '2016-05-29T16:07:38.704Z'
+datePublished: '2016-06-29T21:59:51.065Z'
+dateModified: '2016-06-29T21:59:50.708Z'
 title: Spring into Summer - May 2016 Tech-House Mix by Shayn Almeida
 author:
   - name: Shayn Almeida
     url: 'http://soundcloud.com/shayn-almeida'
     avatar: {}
-sourcePath: _posts/2016-05-29-spring-into-summer-may-2016-tech-house-mix-by-shayn-almeid.md
+sourcePath: >-
+  _posts/2016-05-29-spring-into-summer-may-2016-tech-house-mix-by-shayn-almeid.md
 authors: []
 publisher: null
-starred: true
+starred: false
 _type: MediaObject
 
 ---
