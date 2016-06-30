@@ -1,20 +1,20 @@
-typography_spectrum: 0.15145609248429537
+typography_spectrum: 0.5608748204540461
 color:
   brandColors:
-    - '#170F0E'
-    - '#290418'
-    - '#505217'
-    - '#FFD372'
-    - '#FFF1AF'
-  brandStrength: 0.6385074884165078
-  lightness: 0.26929609081707895
-  saturation: 0.42224684497341514
-  rhythmicContrast: 0.08312189346179366
+    - '#110f10'
+    - '#7e638d'
+    - '#4e5245'
+    - '#c1bab5'
+    - '#fefcf0'
+  brandStrength: 0.6875
+  lightness: 0.625
+  saturation: 0.375
+  rhythmicContrast: 0.75
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.409047678578645
+layout_spectrum: 0.89429
 analytics:
   google: null
   facebook: null
@@ -24,13 +24,13 @@ author:
   email: Shayn@mac.com
   url: www.ShaynAlmeida.com
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c61e0d29-5b9e-4df4-9292-0fd2f0b38749.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/00709839-c73f-43c3-8caf-ca03f29ddf0a.jpg
 name: Shayn Almeida
 cta:
   domain: null
   bucket: null
   version: null
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/71680c9b-5c83-4806-b6e5-632e809881a2.jpg
-title: Sonic Shaman. Holistic Alchemist.
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/74dd415f-b228-49a3-ab2a-0bbee2986d3c.jpg
+title: Sonic Shaman. DJ. Holistic Alkhemist.
 purpose: []
