@@ -1,20 +1,20 @@
-typography_spectrum: 0.0584024025592953
+typography_spectrum: 0.015139973722398281
 color:
   brandColors:
-    - '#85DB18'
-    - '#CDE855'
-    - '#F5F6D4'
-    - '#A7C520'
-    - '#493F0B'
-  brandStrength: 0.14339591260068119
-  lightness: 0.2808131768833846
-  saturation: 0.9985827743075788
-  rhythmicContrast: 0.4914590185508132
+    - '#5A1F00'
+    - '#D1570D'
+    - '#FDE792'
+    - '#477725'
+    - '#A9CC66'
+  brandStrength: 0.0750518434215337
+  lightness: 0.024493132485076785
+  saturation: 0.5817737933248281
+  rhythmicContrast: 0.3532100091688335
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.3748072038870305
+layout_spectrum: 0.5815856379922479
 analytics:
   google: null
   facebook: null
@@ -32,5 +32,5 @@ cta:
   version: null
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/74dd415f-b228-49a3-ab2a-0bbee2986d3c.jpg
-title: DJ. Yogi. Sonic Shaman. Holistic Alkhemist
+title: DJ. Yoga Instructor. Sonic Shaman. Holistic Alkhemist.
 purpose: []
