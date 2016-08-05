@@ -1,36 +1,48 @@
-typography_spectrum: 0.015139973722398281
+title: Shayn Almeida
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.5817737933248281
+  brandStrength: 0.0750518434215337
+  rhythmicContrast: 0.3532100091688335
   brandColors:
     - '#5A1F00'
     - '#D1570D'
     - '#FDE792'
     - '#477725'
     - '#A9CC66'
-  brandStrength: 0.0750518434215337
-  lightness: 0.024493132485076785
-  saturation: 0.5817737933248281
-  rhythmicContrast: 0.3532100091688335
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.5815856379922479
+  lightness: 0.02449313248507679
+cta:
+  bucket: null
+  version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/74dd415f-b228-49a3-ab2a-0bbee2986d3c.jpg
+name: Shayn Almeida
 author:
   name: Shayn Almeida
   email: Shayn@mac.com
   url: www.ShaynAlmeida.com
+opengraph:
+  image: null
+  type: null
+  appId: null
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/00709839-c73f-43c3-8caf-ca03f29ddf0a.jpg
-name: Shayn Almeida
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/74dd415f-b228-49a3-ab2a-0bbee2986d3c.jpg
-title: Shayn Almeida
-purpose: []
+typography_spectrum: 0.01513997372239828
+layout_spectrum: 0.9139785
